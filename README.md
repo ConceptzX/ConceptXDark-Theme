@@ -9,3 +9,6 @@ Inspired by Trade Your Plan's youtube video for adding a dark theme to Windows 1
 
 Feel free to fork and send a pull request if you think you can improve the color pallate.
 Needs some work with padding, invisible borders overlap text at times.
+
+
+![ConceptzXDark-Theme](https://github.com/ConceptzX/ConceptzXDark-Theme/blob/main/screenshot.png)
