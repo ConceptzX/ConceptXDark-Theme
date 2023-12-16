@@ -11,4 +11,5 @@ Feel free to fork and send a pull request if you think you can improve the color
 Needs some work with padding, invisible borders overlap text at times.
 
 
-[img]https://github.com/ConceptzX/ConceptXDark-Theme/blob/main/screenshot.png[/img]
+
+![ConceptzXDark-Theme](https://github.com/ConceptzX/ConceptXDark-Theme/blob/main/screenshot.png)
